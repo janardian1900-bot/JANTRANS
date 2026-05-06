@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jantrans - Transportasi Karawang</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">JANTRANS</div>
+            <p>Jasa Antar Jemput Bandara & Hotel - Area Karawang</p>
+        </header>
+
+        <section class="booking-card">
+            <h3>Formulir Pemesanan</h3>
+            <form id="formBooking">
+                <div class="input-group">
+                    <label>Nama Lengkap</label>
+                    <input type="text" id="nama" placeholder="Masukkan nama Anda" required>
         # 🚖 Jantrans - Jasa Antar Jemput Karawang
 
 **Jantrans** adalah aplikasi pemesanan transportasi sederhana yang dikhususkan untuk layanan antar-jemput antara **Hotel di area Karawang** dan **Bandara (Soekarno-Hatta/Halim)**.
